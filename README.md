@@ -2,7 +2,7 @@
 
 Harder than diamond.
 
-A monolithic Linux kernel based on 6.18.20 LTS.
+A monolithic Linux kernel based on 6.18.20 LTS. (Will Change In the Future.)
 
 - Faster than vanilla stock Linux
 - More secure than linux-hardened
