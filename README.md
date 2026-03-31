@@ -12,4 +12,3 @@ A monolithic Linux kernel based on 6.18.20 LTS.
 When asked why it's called Lonsdaleite: "Because it's more durable than diamond."
 
 Work in progress. Built by Michael.
-(UP IN COMING)
