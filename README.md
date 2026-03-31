@@ -1,4 +1,4 @@
-# Lonsdaleite
+# The Lonsdaleite Project
 
 Harder than diamond.
 
